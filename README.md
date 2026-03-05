@@ -1,3 +1,9 @@
+# Link Youtub
+https://youtu.be/Ij318TYmbuk
+
+# Link Yotube Sebagai Referensi
+https://youtu.be/-PHjHe1OYQk 
+
 # Dokumentasi Ruang Kerja: Pengolahan Citra Digital
 ### Praktikum Machine Learning - Computer Vision
 
@@ -35,8 +41,4 @@ Langkah terakhir adalah memastikan library telah terhubung dengan benar. Saya me
 ```python
 import cv2
 print("Versi OpenCV terdeteksi:", cv2.__version__)
-
-...
-
-# link yt
 
