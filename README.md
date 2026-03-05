@@ -36,10 +36,6 @@ Langkah terakhir adalah memastikan library telah terhubung dengan benar. Saya me
 import cv2
 print("Versi OpenCV terdeteksi:", cv2.__version__)
 
-
-..
-
-
 # Link Youtube :
 https://youtu.be/e4J3Oi809_A?si=XAhlJ0Ti1btmqt4a
 
