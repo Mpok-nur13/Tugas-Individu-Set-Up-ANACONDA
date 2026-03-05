@@ -35,3 +35,4 @@ Langkah terakhir adalah memastikan library telah terhubung dengan benar. Saya me
 ```python
 import cv2
 print("Versi OpenCV terdeteksi:", cv2.__version__)
+
